@@ -37,7 +37,4 @@ Feel free to fork this project and add your own features! Some ideas:
 - Add a pause feature
   
 For questions or suggestions, please open an issue on the repository.
-
----
-
-Enjoy playing! 🎮🐍
+Enjoy playing!
