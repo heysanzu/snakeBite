@@ -25,7 +25,7 @@ Control a snake to eat food and grow longer while avoiding walls and your own ta
 # Getting Started
 - Python 3.x installed on your system
 - Turtle graphics library (comes pre-installed with Python)
-```python
+```bash
 python snakeBite.py
 ```
 # Contributing
