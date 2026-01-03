@@ -1,8 +1,5 @@
 ## Snake Bite
-A Snake Bite game built with Python and Turtle.
-
-**Description:**
-Control a snake to eat food and grow longer while avoiding walls and your own tail. The game features progressive difficulty with increasing speed as you score more points.
+A Snake Bite game built with Python and Turtle. Control a snake to eat food and grow longer while avoiding walls and own tail. The game features progressive difficulty with increasing speed as you score more points.
 
 **Features:**
 - Dual Control Schemes: Use either arrow keys or WASD keys
