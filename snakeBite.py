@@ -44,13 +44,13 @@ credit_pen.hideturtle()
 credit_pen.penup()
 credit_pen.color("black")
 credit_pen.goto(0, -HEIGHT//2 + 20)
-credit_pen.write("Made by Sanzu", align="center", font=("Comic Sans MS", 12, "normal"))
+credit_pen.write("by Sanzu", align="center", font=("Comic Sans MS", 12, "normal"))
 
 # Game over message
 game_over_pen = turtle.Turtle()
 game_over_pen.hideturtle()
 game_over_pen.penup()
-game_over_pen.color("blue")
+game_over_pen.color("black")
 
 game_active = True
 
