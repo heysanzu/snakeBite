@@ -38,7 +38,7 @@ Feel free to fork this project and add your own features! Some ideas.
 - Add a pause feature
 
 ---
-Credits: `Sanzu`
+by: `Sanzu`
 
 For questions or suggestions, please open an issue on the repository.
 Enjoy playing!
